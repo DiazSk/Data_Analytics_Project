@@ -97,7 +97,7 @@ Glimpse of the project
 ![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/4f97e867-aff8-4fe3-93f5-7d6d697cf9be)
 ![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/d0bcec70-0718-404b-b854-37b007d4c755)
 ![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/2debf46f-a3c6-4912-96de-35c3f6c37024)
-
-
-
-
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/2a73f20e-f41b-4745-854f-456f2135813e)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/93239486-6597-47a3-b4c3-a5742f06b53d)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/9c6cd9a3-0c04-473c-b21a-54643a848c10)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/42d8fc9c-fe96-4a9d-8db9-c88d70e46afb)
