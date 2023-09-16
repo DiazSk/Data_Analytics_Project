@@ -11,15 +11,36 @@ This project is a demonstration of basic data analytics using Python, Matplotlib
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Screenshots](#screenshots)
-  
+
+## Features
+
+- Data upload and preview.
+- Summary statistics display.
+- Correlation matrix heatmap.
+- Histograms for data distribution.
+- Scatter plots for data relationships.
+- Save plots as image files.
+- Customizable visualizations.
+
+## Dependencies
+
+- Streamlit
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
 ## Getting Started
+
+### Installation
 
 To get started with this project, you'll need to have Python and the required libraries installed. You can install the necessary packages using pip:
 
@@ -45,31 +66,13 @@ Run the Streamlit app:
 streamlit run data_analytics.py
 ```
 
-## Usage
+### Usage
 
 1. Upload a CSV file using the file uploader.
 2. Explore the data with summary statistics, correlation matrix heatmap, histograms, and scatter plots.
 3. Customize visualizations by selecting columns.
 4. Save generated plots as image files.
 5. Provide insights or conclusions based on data analysis.
-
-## Features
-
-- Data upload and preview.
-- Summary statistics display.
-- Correlation matrix heatmap.
-- Histograms for data distribution.
-- Scatter plots for data relationships.
-- Save plots as image files.
-- Customizable visualizations.
-
-## Dependencies
-
-- Streamlit
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 
 ## Contributing
 
