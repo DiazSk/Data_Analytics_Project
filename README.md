@@ -89,3 +89,15 @@ Feel free to provide suggestions or contribute to the project on the GitHub page
 ## Screenshots
 
 Glimpse of the project
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/35936071-0085-4724-bedf-7899463a2f8c)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/ddc684dc-c265-4233-8d88-9905cd5e4300)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/98c238ba-3ac2-4396-8b0d-3fbae9a7a152)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/d57dc936-da26-41b6-b95c-abb37a291580)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/2a86c82f-df00-4844-b085-9db73565118c)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/4f97e867-aff8-4fe3-93f5-7d6d697cf9be)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/d0bcec70-0718-404b-b854-37b007d4c755)
+![image](https://github.com/DiazSk/Data_Analytics_Project/assets/92885761/2debf46f-a3c6-4912-96de-35c3f6c37024)
+
+
+
+
