@@ -86,6 +86,6 @@ Feel free to provide suggestions or contribute to the project on the GitHub page
 
 `"https://github.com/DiazSk/Data_Analytics_Project"` 
 
-## Screenshot
+## Screenshots
 
 Glimpse of the project
