@@ -1,5 +1,12 @@
 # Data Analytics Project :chart_with_upwards_trend:
 
+![GitHub repo size](https://img.shields.io/github/repo-size/your_username/your_project)
+![GitHub contributors](https://img.shields.io/github/contributors/your_username/your_project)
+![GitHub stars](https://img.shields.io/github/stars/your_username/your_project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your_username/your_project?style=social)
+
+## Overview
+
 This project is a demonstration of basic data analytics using Python, Matplotlib, Seaborn, and Streamlit. It allows you to analyze and visualize data from a CSV file, providing insights and visualizations.
 
 ## Table of Contents
@@ -10,7 +17,8 @@ This project is a demonstration of basic data analytics using Python, Matplotlib
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
-
+- [Screenshots](#screenshots)
+  
 ## Getting Started
 
 To get started with this project, you'll need to have Python and the required libraries installed. You can install the necessary packages using pip:
@@ -71,3 +79,10 @@ Contributions are welcome! If you have any suggestions or would like to improve 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+Feel free to provide suggestions or contribute to the project on the GitHub page. Your feedback is valuable!
+
+`"https://github.com/DiazSk/Data_Analytics_Project"` 
+
+## Screenshot
+
+Glimpse of the project
