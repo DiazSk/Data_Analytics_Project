@@ -22,19 +22,19 @@ pip install streamlit pandas numpy matplotlib seaborn
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/data-analytics-project.git
+git clone https://github.com/DiazSk/Data_Analytics_Project.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd data-analytics-project
+cd data_Analytics_Project
 ```
 
 Run the Streamlit app:
 
 ```bash
-streamlit run your_script.py
+streamlit run data_analytics.py
 ```
 
 ## Usage
