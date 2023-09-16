@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project is a demonstration of basic data analytics using Python, Matplotlib, Seaborn, and Streamlit. It allows you to analyze and visualize data from a CSV file, providing insights and visualizations.
+This project is a data analytics exploration using Python, Matplotlib, Seaborn, and Streamlit. We will analyze a dataset that contains advertising expenses in TV, Radio, Newspaper, and their impact on product Sales. The goal is to gain insights into how different advertising channels affect sales and to visualize the data for better understanding.
 
 ## Table of Contents
 
